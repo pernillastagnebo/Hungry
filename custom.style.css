@@ -1,0 +1,66 @@
+body {
+  background-color: #F5F7F9;
+}
+
+h1, h2, p {
+  font-family: 'Quicksand', sans-serif;
+}
+
+h1 {
+  margin-top: 40px;
+  margin-left: 100px;
+}
+
+.backgroundImage {
+  background-image: url("Images/brooke-lark-230140-unsplash.jpg");
+  background-size: 90%;
+  background-repeat: space;
+  height: 900px;
+}
+
+.navList {
+  list-style-type: none;
+  margin-top: 20px;
+  margin-left: 470px;
+  padding: 0;
+}
+
+.navList li {
+  display: inline;
+  margin-right: 50px;
+  font-family: 'Quicksand', sans-serif;
+}
+
+.navList li a {
+  color: #A81A10;
+}
+
+.navList li a:hover {
+  text-decoration: underline;
+  color: #A81A10;
+}
+
+main {
+  margin-left: 470px;
+  padding: 10px;
+  width: 600px;
+  background-color: #F5F7F9;
+}
+
+.IngredientListAndRecipeImage {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.IngredientList {
+}
+
+.RecipeImage {
+
+  height: 300px;
+}
+
+footer {
+  background-image:
+}
